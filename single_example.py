@@ -85,6 +85,11 @@ p1 = Person()
 p2 = p1.clone()
 p3 = p1.clone(is_deep=False)
 
+s = "/../ab/"
+L = []
+L.pop()
+
+
 
 
 
